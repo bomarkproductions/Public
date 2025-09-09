@@ -35,7 +35,8 @@ This application is **privacy-first**. All heavy processing and analysis happens
 
 | Media Analysis (Advanced Mode) | Integrated Media Viewer |
 | :---: | :---: |
-| ![Media Analysis Tab]([SKÄRMDUMP_HÄR_AV_AI_TAGGER]) | ![Media Viewer Tab]([SKÄRMDUMP_HÄR_AV_MEDIA_VIEWER]) |
+| <img width="1920" height="1080" alt="{8D024E42-1703-4477-82CD-0892B988D942}" src="https://github.com/user-attachments/assets/87b51587-f21f-4b30-a037-57a7ba67603b" />
+ | ![Media Viewer Tab]([SKÄRMDUMP_HÄR_AV_MEDIA_VIEWER]) |
 
 | Diarization & Transcription | Custom Prompt Presets |
 | :---: | :---: |
