@@ -84,6 +84,9 @@ VisionaryAI Tagger is a commercial application. A free version with basic featur
 
 Have you found a bug or have an idea for a new feature? Please [open an issue](https://github.com/DITT_NAMN/DITT_REPO/issues) on our GitHub page!
 
+A Note on File Size
+The application bundle is several gigabytes in size. This is because it includes a self-contained version of PyTorch and all the necessary CUDA libraries to ensure it runs on your NVIDIA GPU out of the box, without requiring you to manually install complex drivers or toolkits. This trade-off ensures a smooth and reliable user experience.
+
 ---
 
 ## Acknowledgments
