@@ -36,11 +36,16 @@ This application is **privacy-first**. All heavy processing and analysis happens
 | Media Analysis (Advanced Mode) | Integrated Media Viewer |
 | :---: | :---: |
 | <img width="1920" height="1080" alt="{8D024E42-1703-4477-82CD-0892B988D942}" src="https://github.com/user-attachments/assets/87b51587-f21f-4b30-a037-57a7ba67603b" />
- | ![Media Viewer Tab]([SKÄRMDUMP_HÄR_AV_MEDIA_VIEWER]) |
+ | ![Media Viewer Tab]|
 
 | Diarization & Transcription | Custom Prompt Presets |
 | :---: | :---: |
-| ![Diarization Tab]([SKÄRMDUMP_HÄR_AV_DIARIZATION]) | ![Prompt Presets Tab]([SKÄRMDUMP_HÄR_AV_PROMPTS]) |
+| ![Diarization Tab]| 
+<img width="1920" height="1080" alt="{AB79FE18-54FC-474F-B854-9AAD92B43D38}" src="https://github.com/user-attachments/assets/2a28d39d-cdd8-49db-90c0-8473c45c4baf" />
+
+![Prompt Presets Tab]|
+<img width="1920" height="1080" alt="{C61D8464-E950-4C4E-833C-F0ACA54F1171}" src="https://github.com/user-attachments/assets/5fefd852-ff30-424c-881b-3a4e137e98ba" />
+
 
 ---
 
