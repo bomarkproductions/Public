@@ -34,7 +34,7 @@ This application is **privacy-first**. All heavy processing and analysis happens
 ## 📸 Screenshots
 
 Media Analysis (Advanced Mode) | Integrated Media Viewer |
-<img width="1920" height="1080" alt="{8D024E42-1703-4477-82CD-0892B988D942}" src="https://github.com/user-attachments/assets/87b51587-f21f-4b30-a037-57a7ba67603b"/> 
+<img width="1920" height="1080" alt="{E20DF8C2-AF56-41F6-BE36-12FAA3524015}" src="https://github.com/user-attachments/assets/762b06d4-f918-4c6c-8df8-85b81f932256" />
 
 [Media Viewer Tab]|
  <img width="1920" height="1080" alt="{C566674A-5787-4D09-B3BC-A0605330998E}" src="https://github.com/user-attachments/assets/2642c0a9-98a9-4204-ab52-99960c83edfd" />
