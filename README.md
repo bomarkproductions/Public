@@ -41,7 +41,7 @@ Media Analysis (Advanced Mode) | Integrated Media Viewer |
 
 
 Diarization & Transcription
-<img width="1920" height="1080" alt="{AB79FE18-54FC-474F-B854-9AAD92B43D38}" src="https://github.com/user-attachments/assets/2a28d39d-cdd8-49db-90c0-8473c45c4baf"/> :---:
+<img width="1920" height="1080" alt="{AB79FE18-54FC-474F-B854-9AAD92B43D38}" src="https://github.com/user-attachments/assets/2a28d39d-cdd8-49db-90c0-8473c45c4baf"/>
 
 
 [Prompt Presets Tab]|
